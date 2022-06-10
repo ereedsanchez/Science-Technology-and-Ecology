@@ -14,3 +14,8 @@ Week 4
 
 Week 5
 
+### Equipment Used ###
+
+- SparkFun Inventors Kit
+- Adafruit HUZZAH32 - ESP32 Feather (Documentation[https://learn.adafruit.com/adafruit-huzzah32-esp32-feather])
+- 
