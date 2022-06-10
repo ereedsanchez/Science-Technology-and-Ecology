@@ -17,5 +17,5 @@ Week 5
 ### Equipment Used ###
 
 - SparkFun Inventors Kit
-- Adafruit HUZZAH32 - ESP32 Feather (Documentation[https://learn.adafruit.com/adafruit-huzzah32-esp32-feather])
+- Adafruit HUZZAH32 - ESP32 Feather (Documentation[https://learn.adafruit.com/adafruit-huzzah32-esp32-feather], Pin-Out Diagram [/images/wireless_Adafruit_HUZZAH32_ESP32_Feather_Pinout.png])
 - 
