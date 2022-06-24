@@ -6,7 +6,9 @@ Learn how to build the sensor technology to study science and ecology.  From wea
 This class will teach you the fundamentals of physical computing using microcomputers and sensors. This will lay the ground work for you to build a battery powered sensor kit that can be install in the field.  You will learn Arduino Software (IDE), and arduino based microcontrollers, and ESP32 Feather.  
 
 
-###### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/)
+###### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/).   
+Learn the basics of Arduino programming. 
+
  - Day 1 
    - IE Lesson 1: [Voltage, current, and resistance](https://makeabilitylab.github.io/physcomp/electronics/electricity-basics.html)
    - [IA Intro to Output](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-output): Lesson 1, Lesson 2, Lesson 3 
@@ -28,9 +30,43 @@ This class will teach you the fundamentals of physical computing using microcomp
   - ~~Lesson 8: [Variable resistors](https://makeabilitylab.github.io/physcomp/electronics/variable-resistors.html)
   - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 1, Lesson 2, Lesson 3
 
-Week 2
+Week 2: Sensors + ESP32
+Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with Wifi, bluetooth and battery capabilities.
+- Day 1
+  - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 4, Lesson 5
+  - [ESP32: Lesson 1: Intro to the ESP32](https://makeabilitylab.github.io/physcomp/esp32/esp32.html)
 
-Week 3
+- Day 2
+  - [ESP32: Lesson 2: Blinking an LED](https://makeabilitylab.github.io/physcomp/esp32/led-blink.html)
+  - [ESP32: Lesson 3: Fading an LED with PWM](https://makeabilitylab.github.io/physcomp/esp32/led-fade.html)
+
+- Day 3
+  - [ESP32: Lesson 4: Analog input](https://makeabilitylab.github.io/physcomp/esp32/pot-fade.html)
+  - Arduino Libraries:
+  - ESP32 + Sensor: DHT22
+
+- Day 4
+  - Arduino Libraries: Onwire, SDI Lesson
+  - ESP32 + Sensor: DS18B20
+  - ESP32 + Sensor: SHT30
+
+Week 3: Send and Visualize Data
+- Day 1
+  - ESP32: Connect to Wifi
+  - ESP32: HTTP & MQTT Protocol 
+  - Connect to Grafana
+
+- Day 2
+  - Complete Sensor Prototype
+  - Connect Grafana
+  - Make Grafana Dashboard
+
+- Day 3
+  - Analyze Data Graphs
+  - Start building outdoor kits
+  - 
+
+- Day 4
 
 Week 4
 
