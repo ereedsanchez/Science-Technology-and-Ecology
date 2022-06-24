@@ -48,7 +48,7 @@ Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with
 - Day 4
   - Arduino Libraries: Onwire, SDI Lesson
   - ESP32 + Sensor: DS18B20
-  - ESP32 + Sensor: SHT30
+  - [ESP32 + Sensor: SHT30](https://web.cecs.pdx.edu/~gerry/class/feather_sense/on-board/tempRH/)
 
 #### Week 3: Send and Visualize Data
 - Day 1
