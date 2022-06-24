@@ -14,16 +14,19 @@ This class will teach you the fundamentals of physical computing using microcomp
  
    
  - Day 2 
-   - Lesson 3: Ohm’s Law
+   - Lesson 3: [Ohm’s Law](https://makeabilitylab.github.io/physcomp/electronics/ohms-law.html)
    - ~~Lesson 4: Series vs. Parallel Resistors~~
-   - Lesson 6: LEDs
+   - Lesson 6: [LEDs](https://makeabilitylab.github.io/physcomp/electronics/leds.html)
+   - [IA Intro to Output](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-output): Lesson 3, Lesson 4, Lesson 5
 
 - Day 3
-  - Lesson 7: Breadboards
+  - Lesson 7: [Breadboards](https://makeabilitylab.github.io/physcomp/electronics/breadboards.html)
+  - [IA Intro to Output](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-output): Lesson 6, Lesson 7, Lesson 8
 
 - Day 4
-  - Lesson 5: Resistors
-  - ~~Lesson 8: Variable resistors
+  - Lesson 5: [Resistors](https://makeabilitylab.github.io/physcomp/electronics/resistors.html)
+  - ~~Lesson 8: [Variable resistors](https://makeabilitylab.github.io/physcomp/electronics/variable-resistors.html)
+  - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 1, Lesson 2, Lesson 3
 
 Week 2
 
