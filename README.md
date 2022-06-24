@@ -9,9 +9,7 @@ This class will teach you the fundamentals of physical computing using microcomp
 ###### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/)
  - Day 1 
    - IE Lesson 1: [Voltage, current, and resistance](https://makeabilitylab.github.io/physcomp/electronics/electricity-basics.html)
-   - [IA Intro to Output](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-output) 
-     - Lesson 1, Lesson 2, Lesson 3 
- 
+   - [IA Intro to Output](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-output): Lesson 1, Lesson 2, Lesson 3 
    - IE Lesson 2: [Circuit Schematics](https://makeabilitylab.github.io/physcomp/electronics/schematics.html)
  
    
