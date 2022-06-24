@@ -6,7 +6,7 @@ Learn how to build the sensor technology to study science and ecology.  From wea
 This class will teach you the fundamentals of physical computing using microcomputers and sensors. This will lay the ground work for you to build a battery powered sensor kit that can be install in the field.  You will learn Arduino Software (IDE), and arduino based microcontrollers, and ESP32 Feather.  
 
 
-###### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/).   
+#### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/).   
 Learn the basics of Arduino programming. 
 
  - Day 1 
@@ -30,7 +30,7 @@ Learn the basics of Arduino programming.
   - ~~Lesson 8: [Variable resistors](https://makeabilitylab.github.io/physcomp/electronics/variable-resistors.html)
   - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 1, Lesson 2, Lesson 3
 
-Week 2: Sensors + ESP32
+#### Week 2: Sensors + ESP32
 Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with Wifi, bluetooth and battery capabilities.
 - Day 1
   - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 4, Lesson 5
@@ -50,7 +50,7 @@ Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with
   - ESP32 + Sensor: DS18B20
   - ESP32 + Sensor: SHT30
 
-Week 3: Send and Visualize Data
+#### Week 3: Send and Visualize Data
 - Day 1
   - ESP32: Connect to Wifi
   - ESP32: HTTP & MQTT Protocol 
@@ -68,9 +68,9 @@ Week 3: Send and Visualize Data
 
 - Day 4
 
-Week 4
+#### Week 4
 
-Week 5
+#### Week 5
 
 ### Equipment Used ###
 
