@@ -3,7 +3,7 @@ Science Technology Entry Program
 Learn how to build the sensor technology to study science and ecology.  From weather sensors to animal camera traps, you will learn how to build, create, and install them in the wild.
 
 ### Introduction
-This class will teach you the fundamentals of physical computing using microcomputers and sensors. This will lay the ground work for you to build a battery powered sensor kit that can be install in the field.  You will learn Arduino Software (IDE), and arduino based microcontrollers, and ESP32 Feather.  
+This class will teach you the fundamentals of physical computing using microcomputers and sensors. This will lay the ground work for you to build a battery powered sensor kit that can be install in the field.  You will learn Arduino Software (IDE), and arduino based microcontrollers, and [ESP32 Feather](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather).  
 
 
 #### Week 1: [Intro to Electronics (IE)](https://makeabilitylab.github.io/physcomp/electronics/) && [Intro to Arduino(IA)](https://makeabilitylab.github.io/physcomp/arduino/).   
@@ -32,6 +32,8 @@ Learn the basics of Arduino programming.
 
 #### Week 2: Sensors + ESP32
 Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with Wifi, bluetooth and battery capabilities.
+[ESP32 FEATHER ADAFRUIT DOCUMENTATION](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather)
+
 - Day 1
   - [IA Intro to Input](https://makeabilitylab.github.io/physcomp/arduino/#intro-to-input): Lesson 4, Lesson 5
   - [ESP32: Lesson 1: Intro to the ESP32](https://makeabilitylab.github.io/physcomp/esp32/esp32.html)
