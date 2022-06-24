@@ -61,16 +61,49 @@ Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with
   - Connect Grafana
   - Make Grafana Dashboard
 
-- Day 3
+- Day 3: Start building outdoor kits
   - Analyze Data Graphs
   - Start building outdoor kits
-  - 
+  - Add Battery + Solar
+  - Print Board + Solder Compnents 
 
 - Day 4
+  - Monitor Battery Code
+  - Print Board + Solder Compnents 
+  - Complete Outdoor Kit 
 
-#### Week 4
+#### Week 4: Build Outdoor Sensor Kits, Build Critter Cam
 
-#### Week 5
+- Day 1
+  - Confirm Grafana Dashboard
+  - Install Outside
+ 
+- Day 2
+ - Check Sensor Kit Data: Troubleshoot if needed
+ - Decorate Critter Cam - Walk around get natural materials.
+
+- Day 3
+  - Decorate Critter Cam, Set up camera to Wifi
+  - Show off Crittercam Decorations
+  - Install Critter Cams Outside with Sensor Kit
+  - Put Food in critter cam
+
+- Day 4
+  - Monitor Critter Cam: Troubleshoot if needed
+  - Download best footage from Critter Cam
+  - Upload to Youtube. Add Senor Data in description 
+
+#### Week 5: Monitor the Ecology with Technology 
+
+  -  Monitor + Download Critter Cam Footage: Troubleshoot if needed
+  -  Upload to Youtube. Add Senor Data in description
+  -  HTTP APIs
+  -  Visualize data in P5.js
+  -  Install Critter Cam, and Sensor kits at Black Rock Forest   
+
+
+
+
 
 ### Equipment Used ###
 
