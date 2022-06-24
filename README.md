@@ -79,8 +79,8 @@ Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with
   - Install Outside
  
 - Day 2
- - Check Sensor Kit Data: Troubleshoot if needed
- - Decorate Critter Cam - Walk around get natural materials.
+  - Check Sensor Kit Data: Troubleshoot if needed
+  - Decorate Critter Cam - Walk around get natural materials.
 
 - Day 3
   - Decorate Critter Cam, Set up camera to Wifi
