@@ -1,4 +1,4 @@
-# Ecology Technology || 2022 Summer
+# Ecology Technology | Summer 2022 
 Science Technology Entry Program 
 Learn how to build the sensor technology to study science and ecology.  From weather sensors to animal camera traps, you will learn how to build, create, and install them in the wild.
 
