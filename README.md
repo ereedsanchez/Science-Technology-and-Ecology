@@ -43,7 +43,7 @@ Understaning Enviornmental Sensors.  Intro to the ESP32 Feather. An arduino with
 - Day 3
   - [ESP32: Lesson 4: Analog input](https://makeabilitylab.github.io/physcomp/esp32/pot-fade.html)
   - Arduino Libraries:
-  - ESP32 + Sensor: DHT22
+  - [ESP32 + Sensor: DHT22](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
 
 - Day 4
   - Arduino Libraries: Onwire, SDI Lesson
