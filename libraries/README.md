@@ -1,4 +1,4 @@
-#### Ecology Technology requires the following drivers and libraries to be installed with the Arduino IDE. 
+### Ecology Technology requires the following drivers and libraries to be installed with the Arduino IDE. 
 Listed are the version that has been tested. You can use the latest version of the library, but at your own risk. 
 
 
