@@ -43,7 +43,7 @@ Adafruit_SHT31 sht31 = Adafruit_SHT31();
 
 
 const char* ssid = "NET-MESH-FOREST";              //Nombre de la RED
-const char* password = "B4r3f2c1!+";           //Password de la RED
+const char* password = "B**********";           //Password de la RED
 const char* mqtt_server_local = "192.168.0.148";
 const char* mqtt_server_remote = "165.22.191.125";
 const char* http_collector_server_local = "";
