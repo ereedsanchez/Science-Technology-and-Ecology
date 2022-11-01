@@ -1,6 +1,7 @@
-# Ecology Technology | Summer 2022 
-Science Technology Entry Program 
-Learn how to build the sensor technology to study science and ecology.  From weather sensors to animal camera traps, you will learn how to build, create, and install them in the wild.
+# Science Technology and Ecology 
+
+The Earth is monitored everday, and all the time by sensor all around the world. 
+From weather reports to our smartphones, GPS, heart rate; there are so many small computerized sensor gathering information for us to use. In this class you will learn how sensor and microcomputers work to gather and display information. You will build and program sensor technology using arduino boards, ESP32s, and raw digital and anologue components.   
 
 ### Introduction
 This class will teach you the fundamentals of physical computing using microcomputers and sensors. This will lay the ground work for you to build a battery powered sensor kit that can be install in the field.  You will learn Arduino Software (IDE), and arduino based microcontrollers, and [ESP32 Feather](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather).  
