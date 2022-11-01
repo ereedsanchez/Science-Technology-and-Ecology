@@ -1,4 +1,5 @@
 # Science Technology and Ecology 
+### a BCC STEP Class by Edwin Reed-Sanchez
 
 The Earth is monitored everday, and all the time by sensor all around the world. 
 From weather reports to our smartphones, GPS, heart rate; there are so many small computerized sensor gathering information for us to use. In this class you will learn how sensor and microcomputers work to gather and display information. You will build and program sensor technology using arduino boards, ESP32s, and raw digital and anologue components.   
