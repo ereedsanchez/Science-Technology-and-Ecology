@@ -1,5 +1,17 @@
 
 Device IDs Reference List -  
+Verified
+
+Bluefields - Dead Mans Creek
+Bluefields-01-DHT-Temp- 80001
+Bluefields-01-DHT-HUM - 80002
+Bluefields-01-SHT-Temp- 80003
+Bluefields-01-SHT-HUM - 80004
+Bluefields-01-DS-Temp - 80005
+Bluefields-01-Voltage  - 80006
+
+
+Unverified
 
 Edwin-Master
 YAYB-01-DHT-Temp- 90001
